@@ -14,4 +14,4 @@ My goal is to become a skilled software developer who can build impactful applic
 
 Through GitHub, I want to share my progress, showcase my projects, and connect with other developers 🤝. I believe GitHub is not only a platform for code but also a place to learn from others, contribute ideas, and build a professional presence in the tech community.
 
-I am still growing, still learning, and still building every day 🔥. Every line of code I write takes me one step closer to my goals. Thank you for visiting my profile, and I look forward to connecting, learning, and creating amazing things through technology ✨
+I am still growing, still learning, and still building every day 🔥. Every line of code I write takes me one step closer to my goals. Thank you for visiting my profile, and I look forward to connecting, learning, and creating amazing things through technology ✨.
