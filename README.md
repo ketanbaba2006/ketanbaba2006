@@ -10,7 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=ketanbaba2006&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Ketan%20Lade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Enthusiast%20|%20Computer%20Science%20Student&descAlignY=60" width="100%" />
+
+</div>
 
 ---
 
@@ -24,7 +28,7 @@
 - 🔍 Interested in Cybersecurity and Software Engineering
 - 🇩🇪 Goal: Build an international software development career
 - 📚 Learning continuously through projects and hands-on development
-- ⚡ Strong believer in "Learn by Building"
+- ⚡ Strong believer in **Learn by Building**
 
 ---
 
@@ -43,6 +47,16 @@
 
 ---
 
+# 🔥 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🐍 Learning Python
+- 🤖 Building AI-Powered Applications
+- ⚙️ System Programming in C
+- 🚀 Developing ARIA & AURA Lab
+
+---
+
 # 🚀 Current Projects
 
 ### 🤖 ARIA
@@ -54,12 +68,12 @@ Programming & Computer Science Learning Studio
 ### 🧠 Code Vision
 Visual Code Execution & Learning Platform
 
-### 📚 Data Structures Practice
-Building DSA implementations from scratch using C/C++
+### 📚 Programming Repository
+Structured collection of C, C++, Java and Data Structure Programs
 
 ---
 
-# 🛠 Languages & Tools
+# 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -77,7 +91,7 @@ Building DSA implementations from scratch using C/C++
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 
 ### Tools & Platforms
 
@@ -89,43 +103,56 @@ Building DSA implementations from scratch using C/C++
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketanbaba2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketanbaba2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanbaba2006&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanbaba2006&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanbaba2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-</p>
+</div>
 
 ---
 
 # 📉 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanbaba2006&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ketanbaba2006&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ketanbaba2006&theme=algolia&no-frame=true&margin-w=15"/>
 
-</p>
+</div>
+
+---
+
+# 📈 Coding Journey
+
+```text
+C Programming          ████████████████████
+C++ Programming        ████████████████░░░░
+Java                   ███████████████░░░░░
+Data Structures        ██████████████░░░░░░
+Python                 ███████░░░░░░░░░░░░░
+Artificial Intelligence ████░░░░░░░░░░░░░░░
+```
 
 ---
 
@@ -136,20 +163,25 @@ Building DSA implementations from scratch using C/C++
 - ✅ Build AI-powered applications
 - ✅ Contribute to Open Source
 - ✅ Create impactful software projects
-- ✅ Prepare for Software Development roles
 - ✅ Strengthen System Design knowledge
+- ✅ Prepare for Software Development Roles
 
 ---
 
-# 💡 Personal Quote
+# 📚 Featured Repositories
 
-> **"Built by discipline, guided by curiosity."**
+| Repository | Description |
+|------------|-------------|
+| Programming | C, C++, Java & DSA Practice Repository |
+| ARIA | Adaptive Reasoning & Intelligence Assistant |
+| AURA Lab | Computer Science Learning Studio |
+| Code Vision | Visual Code Execution Platform |
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ketanbaba">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -163,7 +195,13 @@ Building DSA implementations from scratch using C/C++
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+---
+
+# 💡 Quote
+
+> **"Built by discipline, guided by curiosity."**
 
 ---
 
@@ -173,4 +211,8 @@ Building DSA implementations from scratch using C/C++
 
 </div>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+
+</div>
